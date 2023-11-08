@@ -1,3 +1,3 @@
-console.log("Hola Mundo");
-
-var algo = 123;
+for (let i = 0; i < 10; i++) {
+    console.log("Hola Mundo");
+};
